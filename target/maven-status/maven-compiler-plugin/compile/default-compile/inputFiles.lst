@@ -1,0 +1,9 @@
+/workspaces/GestaoDeVendas/src/main/java/com/gerson/gestaovendas/GestaoVendas.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/Categoria.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/Estoque.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/EstoqueHistorico.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/Permissao.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/Produto.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/Usuario.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/Venda.java
+/workspaces/GestaoDeVendas/src/main/java/com/gestaovendas/modelo/entidade/VendaItem.java
